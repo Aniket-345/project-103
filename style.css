@@ -1,0 +1,23 @@
+
+body{
+    background-color: rgb(226, 141, 66);
+    color: black;
+}
+.heading{
+    font-size: 22px;
+    width: 90%;
+}
+#object_name, #object_accuracy,p{
+color: black;
+}
+
+#cam{
+    
+    border:2px solid black;
+}
+#head{
+    color: rgb(243, 216, 192);
+}
+.h{
+    width: 30%;
+}
